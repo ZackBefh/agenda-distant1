@@ -1,4 +1,0 @@
-Public Class Rappels {
-  public static void main  ( string[] args ){
-    system.out.println(" Rappels: rendre le TP vendredi !")}
-  }
